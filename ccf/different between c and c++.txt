@@ -1,0 +1,9 @@
+1.#include <iostream>
+using namespace std;
+to be corret head 
+2.'cout' and 'cin'
+cin:stanard input
+
+
+
+
