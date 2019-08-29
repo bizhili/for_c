@@ -1,8 +1,67 @@
+NOTING:C++,A LANGUAGE WITH OBJECT-ORIENTED
+
 1.#include <iostream>
 using namespace std;
-to be corret head 
+to be corret head including
+
 2.'cout' and 'cin'
+
 cin:stanard input
+cin>>a>>b>>c;
+a=cin.get();
+eg:
+char array[20]={NULL};
+cin.getline(array,20);
+cin.clear();//clear the buffer of 'cin'
+
+cout:console output
+//'cout' is an object which means it uses data stream. If you wanna print a messege on your screen ,you could send this messege to 'cout'.//
+eg:
+cout<<"xnkjsbckjs"<<endl;
+
+3.The reload of function
+eg:
+int add(int a,int b)
+{
+	return a+b;
+}
+float add(float a,float b)
+{
+	return a/b;
+}
+double add(double a,double b,int c)
+{
+	return a*b+c;
+}
+//they are different and allowed in c++ surrounding
+
+4.keywords
+c has 32 keywords,however c++ has 63 keywords;
+
+5.object-oriented
+3 basical features:Encapsulation,inheritance and polymorphism
+To find more information,visit: https://blog.csdn.net/qq_38289815/article/details/81282946
+5.1polymorphic
+Polymorphic can be comprehened as "one interface,many methods";
+
+6.Allocation of memory
+To via more information,visit: https://blog.csdn.net/cherrydreamsover/article/details/81627855
+Here are 5 kinds of methods to allocate memory:
+1)stack2)heap3)static4)code5)constant value
+keywords:
+malloc -> new
+free   -> delete
+
+
+
+
+
+
+
+
+
+
+
 
 
 
