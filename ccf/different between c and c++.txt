@@ -40,7 +40,7 @@ c has 32 keywords,however c++ has 63 keywords;
 
 5.object-oriented
 3 basical features:Encapsulation,inheritance and polymorphism
-To find more information,visit: https://blog.csdn.net/qq_38289815/article/details/81282946
+To via more information,visit: https://blog.csdn.net/qq_38289815/article/details/81282946
 5.1polymorphic
 Polymorphic can be comprehened as "one interface,many methods";
 
@@ -51,6 +51,11 @@ Here are 5 kinds of methods to allocate memory:
 keywords:
 malloc -> new
 free   -> delete
+
+7.c++ chain table
+To via more information ,visit: https://blog.csdn.net/slandarer/article/details/91863177
+
+
 
 
 

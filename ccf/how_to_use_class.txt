@@ -1,0 +1,9 @@
+HOW_TO_USE_CLASS:
+
+1:
+if you don't declare the type of class ,it should be a private one;
+
+2:type:
+private;
+public;
+proteced(just can be used in this type of class,not reproduced one);
